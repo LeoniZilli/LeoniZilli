@@ -5,13 +5,14 @@
 
 **Desenvolvedor Full Stack em formação · Infraestrutura & Observabilidade**
 
-<a href="https://linkedin.com/in/leoni-zilli-bernardes" target="_blank" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none; color:lightskyblue;">
-  <img alt="LinkedIn" title="LinkedIn" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
-  leoni-zilli-bernardes
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:leozbernardes@gmail.com" target="_blank" style="display:inline-flex; align-items:center; gap:6px; text-decoration:none; text-decoration:none; color:lightskyblue;">
-  <img alt="Gmail" title="Gmail" width="25px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>
-  leozbernardes@gmail.com
+<a href="https://linkedin.com/in/leoni-zilli-bernardes" target="_blank">
+  <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:leozbernardes@gmail.com" target="_blank">
+  <img alt="Gmail" title="Gmail" width="30px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/LeoniZilli" target="_blank">
+  <img alt="GitHub" title="GitHub" width="30px" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
 </a>
 </div>
 
